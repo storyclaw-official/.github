@@ -1,6 +1,6 @@
 # StoryClaw
 
-**[中文版](README.zh.md)** | [storyclaw.com](https://storyclaw.com) | [@storyclawai](https://x.com/storyclawai)
+[storyclaw.com](https://storyclaw.com) | [@storyclawai](https://x.com/storyclawai)
 
 The first personal AI labor terminal. **ClawBot** runs autonomous AI agents 24/7 on local hardware in your home — not a new computer, but the gateway for AI labor to enter your life.
 
